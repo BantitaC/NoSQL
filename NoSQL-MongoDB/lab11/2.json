@@ -1,0 +1,18 @@
+{
+    "info": [
+        {
+            "ID": 1,
+            "CountryID": "Thailand",
+            "yearID": "1990",
+            "CustomerID": "Sara",
+            "Amount": "350"
+        },
+        {
+            "ID": 2,
+            "CountryID": "Japan",
+            "yearID": "2000",
+            "CustomerID": "Alex",
+            "Amount": "450"
+        }
+    ]
+}
